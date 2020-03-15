@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.kamal.springframework</groupId>
     <artifactId>kd-pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>kd-pet-clinic</name>
     <description>Spring Pet clinic implementation</description>
 
@@ -45,7 +45,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/SpringWebApp/KDSpringPetClinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>kd-pet-clinic-0.0.3</tag>
   </scm>
 
 </project>
