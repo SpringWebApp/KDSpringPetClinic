@@ -2,9 +2,11 @@ package com.kamal.springframework.kdpetclinic.services.map;
 
 import com.kamal.springframework.kdpetclinic.model.Pet;
 import com.kamal.springframework.kdpetclinic.services.PetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet,Long> implements PetService {
 
 
